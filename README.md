@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 ![Màn hình trình duyệt](trangchu.png)
-![Màn hình IDE](https://github.com/pirasama/repository-name/raw/main/ide.png)
+![Màn hình IDE](IDE.png)
+![Màn hình Đăng ký](dangky.png)
+![Màn hình Đăng Nhập](dangnhap.png)
 
 
 ## Getting Started
