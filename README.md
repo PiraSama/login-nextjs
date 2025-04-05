@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-![Màn hình trình duyệt](https://github.com/pirasama/repository-name/raw/main/trangchu.png)
+![Màn hình trình duyệt](trangchu.png)
 ![Màn hình IDE](https://github.com/pirasama/repository-name/raw/main/ide.png)
 
 
